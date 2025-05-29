@@ -17,7 +17,7 @@ st.sidebar.markdown("""
 # Main Header
 st.markdown("""
 # 👋 Hello, I'm Srinivas
-### Data & BI Architect | GenAI Builder | ML-Ready Analytics
+### Data rchitect | GenAI Builder | ML-Ready Analytics
 I'm a seasoned professional with over 15 years of experience in enterprise data platforms, ML/AI, and BI strategy.
 """)
 
